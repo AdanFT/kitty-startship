@@ -1,1 +1,2 @@
-### Configurations to terminal and prompt
+# Configurations to terminal and prompt
+
